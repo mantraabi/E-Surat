@@ -1,9 +1,5 @@
 # ✉️ E-Surat - Aplikasi Manajemen Arsip Surat
 
-![Version](https://img.shields.io/github/v/release/mantraabi/E-Surat?style=flat-square)
-![Platform](https://img.shields.io/badge/platform-Windows-blue?style=flat-square)
-![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
-
 **E-Surat** adalah aplikasi desktop modern berbasis Electron untuk pengelolaan surat masuk, surat keluar, dan pengarsipan digital. Dirancang untuk instansi atau perkantoran yang membutuhkan manajemen surat yang cepat, *offline-first*, namun tetap memiliki kemampuan sinkronisasi cloud.
 
 ## ✨ Fitur Unggulan
