@@ -46,13 +46,14 @@ Aplikasi ini dibangun menggunakan teknologi web modern yang dibungkus menjadi ap
 
 ## 📥 Download & Instalasi
 
-Untuk pengguna Windows, silakan unduh installer versi terbaru di menu **Releases**:
+Untuk pengguna Windows, silakan unduh installer versi terbaru di **Website**:
 
-👉 **[Download E-Surat Terbaru](https://github.com/mantraabi/E-Surat/releases/latest)**
+👉 **[Download E-Surat Terbaru](https://abimantra.my.id)**
 
-1.  Download file `.exe`.
-2.  Jalankan installer.
-3.  Aplikasi siap digunakan!
+1.  Daftar & Login
+2.  Download file `.exe`.
+3.  Jalankan installer.
+4.  Aplikasi siap digunakan!
 
 ---
 
